@@ -14,7 +14,7 @@ Founding engineer & senior full-stack developer based in Cape Town. 20+ years sh
 - 🤖 **AI-assisted development as a daily practice** — Claude, Cursor, RAG pipelines, and the messy work of integrating LLMs into products that already have users
 - 🧱 **Founding-engineer work** — owning architecture end-to-end alongside non-technical founders, from POC to production
 - 💸 **High-stakes UX** — pricing forms, sync engines, clinical data flows; the kind of surface area where a bad render costs real money
-- ✈️ gavr: [**gavr**](https://gavr.app), an offsite planning platform for remote teams (solo-built, paying design partner)
+- ✈️ [**gavr**](https://gavr.app), an offsite planning platform for remote teams (solo-built, paying design partner)
 
 ### ⚡ Stack I live in
 
