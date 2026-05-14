@@ -22,7 +22,7 @@ Founding engineer & senior full-stack developer based in Cape Town. 20+ years sh
 
 ### 📊 Stats
 
-[![David's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=david-potgieter&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=david-potgieter&short_numbers=true&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
 [![David's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=david-potgieter&theme=react-dark&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
