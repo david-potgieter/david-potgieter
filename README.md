@@ -27,5 +27,3 @@ Founding engineer & senior full-stack developer based in Cape Town. 20+ years sh
 [![David's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=david-potgieter&theme=react-dark&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-*"Twenty years in, the part I still care about most is shipping the thing — and shipping it in a way that doesn't break when the room gets quiet."*
